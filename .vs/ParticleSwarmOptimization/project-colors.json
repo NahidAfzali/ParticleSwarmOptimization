@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "081c80a4-ccdf-4d1d-91aa-b48635764a5f": {
+      "ProjectGuid": "081c80a4-ccdf-4d1d-91aa-b48635764a5f",
+      "DisplayName": "ParticleSwarmOptimization",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

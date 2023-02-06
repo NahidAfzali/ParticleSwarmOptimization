@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ShahidBeheshti\\Course3\\پردازش تصویر\\Improved multiscale matched filter for retina vessel\\ParticleSwarmOptimization\\ParticleSwarmOptimization\\ParticleSwarmOptimization.csproj": {}
+  },
+  "projects": {
+    "F:\\ShahidBeheshti\\Course3\\پردازش تصویر\\Improved multiscale matched filter for retina vessel\\ParticleSwarmOptimization\\ParticleSwarmOptimization\\ParticleSwarmOptimization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ShahidBeheshti\\Course3\\پردازش تصویر\\Improved multiscale matched filter for retina vessel\\ParticleSwarmOptimization\\ParticleSwarmOptimization\\ParticleSwarmOptimization.csproj",
+        "projectName": "ParticleSwarmOptimization",
+        "projectPath": "F:\\ShahidBeheshti\\Course3\\پردازش تصویر\\Improved multiscale matched filter for retina vessel\\ParticleSwarmOptimization\\ParticleSwarmOptimization\\ParticleSwarmOptimization.csproj",
+        "packagesPath": "C:\\Users\\f-afzali\\.nuget\\packages\\",
+        "outputPath": "F:\\ShahidBeheshti\\Course3\\پردازش تصویر\\Improved multiscale matched filter for retina vessel\\ParticleSwarmOptimization\\ParticleSwarmOptimization\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\f-afzali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.0.85.160:36200/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
